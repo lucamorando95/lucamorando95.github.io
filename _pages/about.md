@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Luca Morando and I am an italian researcher working in the US. 
+My name is Luca Morando and I am an Italian researcher working in the US. 
 
 Currently, I am a postdoctoral associate at New York University and a Visiting Postdoctoral Scholar at U.C. Berkeley, in particular in the [Agile Robotics and Perception Lab](https://arplaboratory.github.io/)(ARPL), headed by Prof. Giuseppe Loianno. 
 At ARPL, I work on aerial robotics autonomy, especially for long range application for fixed wing aircrafts and Human Robot Interaction using Mixed Reality techinques. 
 
-I joined ARPL as a Visiting Ph.D. student in November 2021 where I spent two years before getting my Ph.D. in Robotics and Autonomous System from the [University of Genoa](https://unige.it/en), under the supervision of Professor Antonio Sgorbissa. 
+I joined ARPL as a Visiting Ph.D. student in November 2021 where I spent two years before getting my International Ph.D. in Robotics and Autonomous System from the [University of Genoa](https://unige.it/en), under the supervision of both Prof. Loianno and Prof. Antonio Sgorbissa. 
 Prior to the Ph.D., I obtained my Master Degree from University of Genoa in Robotics Engineering, where I spent a year in an International Exchange Program at the [Universitè de Technologie de Compiegne (UTC)](https://www.utc.fr/),  where I conducted my Master Thesis project at the [Heudyasic Lab](https://www.hds.utc.fr/en/) under the supervision of Prof. Pedro Garcia. 
 I got my bachelor degree as well from University of Genoa in Biomedical Engineering, where I participated to 6 months Interniship at the Italian Institude of Technology. 
 
@@ -20,6 +20,17 @@ My research has been validated through DARPA and Army Research Lab field trials,
 
 My Ph.D. And Postdoc Research 
 ======
+Autonomous drones, both wing based and quadrotors, are becoming indispensable in critical missions such as search and rescue and disaster response. Differently from other robotics systems, autonomous drones have the capability to fly, cover long distances and also explored constrained outdoor and indoor environments where other robotics agent would easily fail. Despite this, today's system still lacks fully autonomy capability and they ofter requires expert human pilot intervention. Additionally, despite already used as important tool in emergency scenarios and military applications, still lacks proper mechanism for an intelligent interaction with non expert humans, that can enhance them from simple tools, to real human collaborator and companion in various missions. 
+During my research, I fully focused on building autonomous stack based on a simple premise:
+
+*Enabling safe and agile autonomy in unknown environments by adapting to shifting condition, enabling long range and energy harvesting capabilities and provide an enhanced level of collaboaration with humans in complex mission sceanrios.*
+
+
+Yet today’s systems still require expert human pilots and they are lacking of proper mechanism of interaction with non-expert human  because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my Ph.D., I rebuilt the autonomy stack around a simple premise:
+
+Enabling safe and agile autonomy in unknown environments by adapting to shifting conditions, reacting instantly to obstacles, and relying only on what the robot can directly observe.
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
