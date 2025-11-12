@@ -18,8 +18,8 @@ I got my bachelor degree as well from University of Genoa in Biomedical Engineer
 My research has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
 
 
-My Ph.D. And Postdoc Research 
-======
+## My Ph.D. And Postdoc Research 
+
 Autonomous drones, both wing based and quadrotors, are becoming indispensable in critical missions such as search and rescue and disaster response. Differently from other robotics systems, autonomous drones have the capability to fly, cover long distances and also explored constrained outdoor and indoor environments where other robotics agent would easily fail. Despite this, today's system still lacks fully autonomy capability and they ofter requires expert human pilot intervention. Additionally, despite already used as important tool in emergency scenarios and military applications, still lacks proper mechanism for an intelligent interaction with non expert humans, that can enhance them from simple tools, to real human collaborator and companion in various missions. 
 During my research, I fully focused on building autonomous stack based on a simple premise:
 
