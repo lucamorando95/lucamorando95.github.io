@@ -26,6 +26,14 @@ During my research, I fully focused on building autonomous stack based on a simp
 *Enabling safe and agile autonomy in unknown environments by adapting to shifting condition, enabling long range and energy harvesting capabilities and provide an enhanced level of collaboaration with humans in complex mission sceanrios.*
 
 ### Autonomous and Agile Planning and Control for Fixed Wing Aerial Vehicle
+(put video plane flyig during the glide at coney island and image google earth of the paper)
+Despite their great potential across domains such as environmental monitoring, disaster response, agriculture, and logistic, unmanned Fixed Wing UAVs, which stand out for their long range endurance, and high cruise speed compared to multirotor aerial vehicles, present a very complex coupled and highly non-linear dynamics, which is strictly affected by aerodynamics effects acting on the airframes at different flying regimes. These characteristics, enhanced by the external wind disturbances, can pose severe problems on planning and control of flight trajectories. In this direction, my research has been focused in designing flying architecture that leverages the complex dynamics of the aircraft, and simplifying them for control objectives leveraging the mathematical formulation provided by the Differential Flatness for geometric control. 
+To further keep the plane always in a safe flying envelope, continuous flying trajectories are optimized based on Bernestin Polynomials, with the characteristic of being dynamic aware, wind aware for optimal crusing and able to generate optimal gliding conditions for Energy Harvesting. 
+Additionally, we developed a fully dynamic and aerodynamic aware NMPC for optimal tracking of the genrated trajectories and disturbances rejection. 
+This framework, tested on various platforms, provides resilient flight autonomy for long range fixed wing applications. 
+
+### Human Robot-Drone Interaction for shared collaboration and exploration of indoor constrained environments through Mixed Reality
+
 
 Yet today’s systems still require expert human pilots and they are lacking of proper mechanism of interaction with non-expert human  because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my Ph.D., I rebuilt the autonomy stack around a simple premise:
 
