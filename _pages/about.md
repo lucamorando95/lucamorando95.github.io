@@ -1,17 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My name is Luca Morando and I am an italian researcher working in the US. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Currently, I am a postdoctoral associate at New York University and a Visiting Postdoctoral Scholar at U.C. Berkeley, in particular in the [Agile Robotics and Perception Lab](https://arplaboratory.github.io/)(ARPL), headed by Prof. Giuseppe Loianno. 
+At ARPL, I work on aerial robotics autonomy, especially for long range application for fixed wing aircrafts and Human Robot Interaction using Mixed Reality techinques. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I joined ARPL as a Visiting Ph.D. student in November 2021 where I spent two years before getting my Ph.D. in Robotics and Autonomous System from the [University of Genoa](https://unige.it/en), under the supervision of Professor Antonio Sgorbissa. 
+Prior to the Ph.D., I obtained my Master Degree from University of Genoa in Robotics Engineering, where I spent a year in an International Exchange Program at the [Universitè de Technologie de Compiegne (UTC)](https://www.utc.fr/),  where I conducted my Master Thesis project at the [Heudyasic Lab](https://www.hds.utc.fr/en/) under the supervision of Prof. Pedro Garcia. 
+I got my bachelor degree as well from University of Genoa in Biomedical Engineering, where I participated to 6 months Interniship at the Italian Institude of Technology. 
 
-A data-driven personal website
+My research has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
+
+
+My Ph.D. And Postdoc Research 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
