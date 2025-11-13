@@ -33,6 +33,23 @@ Additionally, we developed a fully dynamic and aerodynamic aware NMPC for optima
 This framework, tested on various platforms, provides resilient flight autonomy for long range fixed wing applications. 
 
 ### Human Robot-Drone Interaction for shared collaboration and exploration of indoor constrained environments through Mixed Reality
+During my research I have always been aware that Aerial Robots have the potential to play a crucial role in assisting humans in complex and dangerous
+tasks without requiring an expert human pilot that always control them through teleoperation devices based on simple joystics. The goal of my research has been motivated by creating autonomy and interaction solutions to decrease users’ cognitive and physical workload while working with a aerial robotic agent, makig the interaction so natural that the human does not consider them as machines but as real collaborators, that they can trust, and can guide them in dangerous and complicated exploration. In this direction, I develop a bidirectional spatial awareness stack based on a virtual-physical interaction leveraging Mixed Reality interaction tools with the goal to create a virtual immersive environment integrated in the real word where the users and the robots can sinuosly interact and sharing spatial and perception information and control commands minimizimng the user mental loading. 
+To achieve this, the user can control the robot giving him spatial waypoints or directly drag the virtual representation in a virtually created environment, visible in Mixed Reality, dynamically enhanced with the robot mapping capabilities. 
+Additionally, the user can be guided by the robot as well, which it runs an onboard autonomous pipeline based on generation of obstacles, user and dynamic aware flying trajectories, which acts as a safety guaranteed for the robot navigation, and provides a force feedback to the user if he tries to pull the robot away from it. 
+User case studies shows how the bi-directional planner helped spatial awareness based on MR increase the user interaction efficiency thus reducing the workload. Additionally the MR has been developed as a web based framework, cross platform and accessible from anywhere by anyone. 
+
+### Efficient Navigation and Inspection of LArge Photovoltaic Solar Plants using autonomous quadrotors
+
+
+In addition, many applications
+will require aerial robots to be ubiquitous and share the same environment with human operators.
+Therefore, this calls for novel solutions to enable seamless, transparent, and efficient human-drone
+collaboration and co-working in the same workspace. In this paper, we present a tele-immersive
+approach that fosters cognitive and physical collaboration between humans and robots through
+Mixed Reality. We develop a bidirectional spatial awareness module and a virtual-physical interaction
+framework integrated into a head-mounted MR display
+
 
 
 Yet today’s systems still require expert human pilots and they are lacking of proper mechanism of interaction with non-expert human  because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my Ph.D., I rebuilt the autonomy stack around a simple premise:
